@@ -1,4 +1,5 @@
 # Run A Nubit Light Node
+![Just Pics](https://github.com/zhizhi1348/Nubit-Light-Node/blob/main/Screenshot%202024-06-09%20220055.png)
 
 [zhizhi twitter](https://x.com/zhiyarrr1) 
 
